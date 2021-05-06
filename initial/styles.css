@@ -1,0 +1,19 @@
+img {
+    height: 50px;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}
+
+.orange{
+    color: orange;
+}
+
+#app{
+    height: 100vh
+}
